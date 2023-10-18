@@ -4,19 +4,21 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## Table of Contents
 
-- [React](#react)
-- [Node](#node)
-- [TypeScript](#typescript)
-- [Testing](#testing)
-- [Docker](#docker)
-- [SQL](#sql)
-- [NoSQL](#nosql)
-- [AWS](#aws)
-- [DevOps](#devops)
-- [Git](#git)
-- [Shell](#shell)
-- [HTML](#html)
-- [CSS](#css)
+- [Tech Resources](#tech-resources)
+  - [Table of Contents](#table-of-contents)
+  - [React](#react)
+  - [Node](#node)
+  - [TypeScript](#typescript)
+  - [Testing](#testing)
+  - [Docker](#docker)
+  - [SQL](#sql)
+  - [NoSQL](#nosql)
+  - [AWS](#aws)
+  - [DevOps](#devops)
+  - [Git](#git)
+  - [Shell](#shell)
+  - [HTML](#html)
+  - [CSS](#css)
 
 ---
 
@@ -35,6 +37,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - **[Tao of Node](https://alexkondov.com/tao-of-node)**
 - **[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)**
 - **[Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing)**
+- **[Scaling Node.js applications](https://punits.dev/jargon-free-intros/scaling-nodejs-applications)**
 - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (Book)
 
 ## TypeScript
