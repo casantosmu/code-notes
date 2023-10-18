@@ -4,21 +4,19 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## Table of Contents
 
-- [Tech Resources](#tech-resources)
-  - [Table of Contents](#table-of-contents)
-  - [React](#react)
-  - [Node](#node)
-  - [TypeScript](#typescript)
-  - [Testing](#testing)
-  - [Docker](#docker)
-  - [SQL](#sql)
-  - [NoSQL](#nosql)
-  - [AWS](#aws)
-  - [DevOps](#devops)
-  - [Git](#git)
-  - [Shell](#shell)
-  - [HTML](#html)
-  - [CSS](#css)
+- [React](#react)
+- [Node](#node)
+- [TypeScript](#typescript)
+- [Testing](#testing)
+- [Docker](#docker)
+- [SQL](#sql)
+- [NoSQL](#nosql)
+- [AWS](#aws)
+- [DevOps](#devops)
+- [Git](#git)
+- [Shell](#shell)
+- [HTML](#html)
+- [CSS](#css)
 
 ---
 
