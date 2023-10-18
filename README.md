@@ -22,6 +22,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## React
 
+- **[Learn React - Escape Hatches](https://react.dev/learn/escape-hatches)**
 - **[Bulletproof React](https://github.com/alan2207/bulletproof-react)**
 - **[Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react)**
 - **[Build your own React](https://pomb.us/build-your-own-react)**
