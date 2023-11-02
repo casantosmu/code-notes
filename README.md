@@ -18,8 +18,6 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - [HTML](#html)
 - [CSS](#css)
 
----
-
 ## React
 
 - **[Learn React - Escape Hatches](https://react.dev/learn/escape-hatches)**
@@ -34,8 +32,8 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - **[What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)** (Video)
 - **[Tao of Node](https://alexkondov.com/tao-of-node)**
 - **[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)**
-- **[Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing)**
 - **[Scaling Node.js applications](https://punits.dev/jargon-free-intros/scaling-nodejs-applications)**
+- **[Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing)**
 - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (Book)
 
 ## TypeScript
@@ -46,6 +44,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 ## Testing
 
 - **[JavaScript & Node.js Testing Best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)**
+- **[Integration Test Best Practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices)**
 - **[Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing)** (Book)
 
 ## Docker
