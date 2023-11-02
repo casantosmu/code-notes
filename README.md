@@ -13,6 +13,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - [NoSQL](#nosql)
 - [AWS](#aws)
 - [DevOps](#devops)
+- [Security](#security)
 - [Git](#git)
 - [Shell](#shell)
 - [HTML](#html)
@@ -72,6 +73,12 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 ## DevOps
 
 - **[The Twelve Factors](https://12factor.net)**
+
+## Security
+
+- **[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)**
+- **[JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default)**
+- **[JWT are Dangerous for User Sessions](https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions)**
 
 ## Git
 
