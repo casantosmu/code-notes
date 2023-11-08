@@ -7,6 +7,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - [React](#react)
 - [Node](#node)
 - [TypeScript](#typescript)
+- [Go](#go)
 - [Testing](#testing)
 - [Docker](#docker)
 - [SQL](#sql)
@@ -41,6 +42,12 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 - **[Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)**
 - **[Effective TypeScript](https://effectivetypescript.com)** (Book)
+
+## Go
+
+- **[Effective Go](https://go.dev/doc/effective_go)**
+- **[Practical Go](https://dave.cheney.net/practical-go)**
+- **[Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments#go-code-review-comments)**
 
 ## Testing
 
