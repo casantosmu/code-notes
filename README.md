@@ -96,6 +96,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## CSS
 
+- **[The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)**
 - **[BEM — Block Element Modifier](https://getbem.com)**
 - **[Sass Guidelines](https://sass-guidelin.es)**
 
