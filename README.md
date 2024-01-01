@@ -37,6 +37,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - **[Scaling Node.js applications](https://punits.dev/jargon-free-intros/scaling-nodejs-applications)**
 - **[Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing)**
 - **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (Book)
+- **[Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)**
 
 ## TypeScript
 
