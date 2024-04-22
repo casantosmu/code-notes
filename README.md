@@ -15,6 +15,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - [AWS](#aws)
 - [DevOps](#devops)
 - [Security](#security)
+- [NGINX](#nginx)
 - [Git](#git)
 - [Shell](#shell)
 - [HTML](#html)
@@ -87,6 +88,10 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - **[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)**
 - **[JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default)**
 - **[JWT are Dangerous for User Sessions](https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions)**
+
+## NGINX
+- **[NGINX Pitfalls and Common Mistakes](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls)**
+- **[Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)**
 
 ## Git
 
