@@ -89,6 +89,7 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 - **[CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)**
 - **[JWT should not be your default for sessions](https://evertpot.com/jwt-is-a-bad-default)**
 - **[JWT are Dangerous for User Sessions](https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions)**
+- **[Understanding CSRF](https://github.com/pillarjs/understanding-csrf)**
 
 ## NGINX
 
