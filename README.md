@@ -6,7 +6,6 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 - [React](#react)
 - [Node](#node)
-- [TypeScript](#typescript)
 - [Go](#go)
 - [Testing](#testing)
 - [Docker](#docker)
@@ -33,17 +32,11 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 ## Node
 
 - **[What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)** (Video)
-- **[Tao of Node](https://alexkondov.com/tao-of-node)**
+- **[Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node)**
 - **[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)**
-- **[Scaling Node.js applications](https://punits.dev/jargon-free-intros/scaling-nodejs-applications)**
-- **[Straightforward Event Sourcing with TypeScript and NodeJS](https://event-driven.io/en/type_script_node_Js_event_sourcing)**
-- **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (Book)
 - **[Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)**
-
-## TypeScript
-
-- **[Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)**
-- **[Effective TypeScript](https://effectivetypescript.com)** (Book)
+- **[Scaling Node.js applications](https://punits.dev/jargon-free-intros/scaling-nodejs-applications)**
+- **[Node.js Design Patterns](https://www.nodejsdesignpatterns.com)** (Book)
 
 ## Go
 
@@ -64,7 +57,6 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## SQL
 
-- **[Relational Database - FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database)** (Free course)
 - **[SQL Anti-Patterns](https://github.com/boralp/sql-anti-patterns)**
 - **[SQL Antipatterns, Volume 1](https://pragprog.com/titles/bksap1/sql-antipatterns-volume-1)** (Book)
 
@@ -98,7 +90,6 @@ A curated list of patterns, anti-patterns, tips, best practices, and recommended
 
 ## Git
 
-- **[A collection of .gitignore templates](https://github.com/github/gitignore)**
 - **[Conventional Commits](https://www.conventionalcommits.org)**
 
 ## Shell
