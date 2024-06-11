@@ -1,0 +1,11 @@
+{
+  "name": "code-notes",
+  "scripts": {
+    "format": "prettier . --write && markdownlint-cli2 \"**/*.md\" \"#node_modules\" --fix",
+    "lint": "prettier . --check && markdownlint-cli2 \"**/*.md\" \"#node_modules\""
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.13.0",
+    "prettier": "3.3.2"
+  }
+}
