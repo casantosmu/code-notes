@@ -26,6 +26,8 @@ plugins:
   - privacy
   - search
   - git-revision-date-localized
+  - minify:
+      minify_html: true
 validation:
   omitted_files: warn
   absolute_links: warn
