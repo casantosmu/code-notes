@@ -1,6 +1,6 @@
 site_name: Code Notes
 site_url: https://code-notes.casantosmu.com
-repo_url: https://github.com/casantosmu/tech-resources
+repo_url: https://github.com/casantosmu/code-notes
 edit_uri: edit/main/docs/
 theme:
   name: material
