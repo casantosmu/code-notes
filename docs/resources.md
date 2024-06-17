@@ -1,7 +1,5 @@
 # Resources
 
-A curated list of patterns, anti-patterns, tips, best practices, and recommended resources for various technologies.
-
 ## React
 
 - **[Learn React - Escape Hatches](https://react.dev/learn/escape-hatches)**
