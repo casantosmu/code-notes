@@ -1,4 +1,4 @@
-name: Continous Integration
+name: Continuous Integration
 
 on:
   push:
@@ -32,11 +32,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Build Docker image
         run: docker build -t code-notes .
 
       - name: Build MkDocs site
-        run: docker run --rm -v $(pwd):/docs code-notes build
+        run: docker run --rm -v $(pwd):/docs code-notes build --strict
