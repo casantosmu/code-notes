@@ -6,7 +6,6 @@ nav:
   - Resources: resources.md
 site_url: https://code-notes.casantosmu.com
 repo_url: https://github.com/casantosmu/code-notes
-edit_uri: edit/main/docs/
 theme:
   name: material
   favicon: assets/favicon.png
@@ -23,13 +22,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  features:
-    - content.action.view
 plugins:
   - privacy
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
+  - git-revision-date-localized
 validation:
   omitted_files: warn
   absolute_links: warn
