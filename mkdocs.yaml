@@ -6,6 +6,7 @@ repo_url: https://github.com/casantosmu/code-notes
 
 nav:
   - Home: index.md
+  - Ubuntu Server: ubuntu-server.md
   - Resources: resources.md
 
 theme:
