@@ -1,11 +1,14 @@
 site_name: Code Notes
 site_description: A personal collection of programming insights and practical tips.
 site_author: Carlos Santos
-nav:
-  - Home: index.md
-  - Resources: resources.md
 site_url: https://code-notes.casantosmu.com
 repo_url: https://github.com/casantosmu/code-notes
+
+nav:
+  - Home: index.md
+  - Ubuntu Server: ubuntu-server.md
+  - Resources: resources.md
+
 theme:
   name: material
   favicon: assets/favicon.png
@@ -22,15 +25,32 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
 plugins:
   - privacy
   - search
   - git-revision-date-localized
   - minify:
       minify_html: true
+
 markdown_extensions:
   - toc:
       permalink: true
+
+  # Admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+  # Code blocks
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 validation:
   omitted_files: warn
   absolute_links: warn
