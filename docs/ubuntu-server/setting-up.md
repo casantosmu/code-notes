@@ -1,8 +1,6 @@
-# Ubuntu Server
+# Setting Up Ubuntu Server
 
-## Setting Up Ubuntu Server
-
-### 1. Accessing the Server
+## 1. Accessing the Server
 
 Access the server using an SSH client, substituting `server_ip` with the server IP address:
 
@@ -10,7 +8,7 @@ Access the server using an SSH client, substituting `server_ip` with the server 
 ssh root@server_ip
 ```
 
-### 2. Updating the Server
+## 2. Updating the Server
 
 Update the server to ensure all packages are up to date:
 
@@ -18,7 +16,7 @@ Update the server to ensure all packages are up to date:
 apt update && apt upgrade -y
 ```
 
-### 3. Creating a New User
+## 3. Creating a New User
 
 Create a new user with sudo privileges to avoid using the root account:
 
@@ -27,7 +25,7 @@ adduser newuser
 usermod -aG sudo newuser
 ```
 
-### 4. Configuring SSH Access
+## 4. Configuring SSH Access
 
 Configure SSH access by copying SSH keys from the root user to the new user:
 
@@ -58,7 +56,7 @@ Restart the SSH service:
 systemctl restart ssh
 ```
 
-### 5. Setting Up a Firewall
+## 5. Setting Up a Firewall
 
 Configure the firewall to allow essential services:
 
@@ -67,7 +65,7 @@ ufw allow OpenSSH
 ufw enable
 ```
 
-### 6. Disabling Root Login
+## 6. Disabling Root Login
 
 Disable root login for additional security:
 
@@ -75,7 +73,7 @@ Disable root login for additional security:
 passwd -l root
 ```
 
-### 7. Fail2ban
+## 7. Fail2ban
 
 Install Fail2ban to protect the server from brute-force attacks:
 

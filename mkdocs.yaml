@@ -6,7 +6,9 @@ repo_url: https://github.com/casantosmu/code-notes
 
 nav:
   - Home: index.md
-  - Ubuntu Server: ubuntu-server.md
+  - Ubuntu Server:
+      - Setting Up: ubuntu-server/setting-up.md
+      - HTTPS: ubuntu-server/https.md
   - Resources: resources.md
 
 theme:
