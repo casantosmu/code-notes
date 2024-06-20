@@ -14,7 +14,7 @@ dev:
 build:
 	@echo "Building the documentation..."
 	@docker build -t $(DOCKER_IMAGE) .
-	@docker run --rm -it -v $(PWD_DIR):/docs $(DOCKER_IMAGE) build
+	@docker run --rm -v $(PWD_DIR):/docs $(DOCKER_IMAGE) build
 
 help:
 	@echo "Usage: make [target]"
