@@ -1,4 +1,4 @@
-name: Continous Deployment
+name: Continuous Deployment
 
 on:
   push:
@@ -15,11 +15,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build Docker image
-        run: docker build -t code-notes .
-
       - name: Build MkDocs site
-        run: docker run --rm -v $(pwd):/docs code-notes build
+        run: make build
 
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@v5.0.3
