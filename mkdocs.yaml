@@ -9,6 +9,7 @@ nav:
   - Ubuntu Server:
       - Setting Up: ubuntu-server/setting-up.md
       - HTTPS: ubuntu-server/https.md
+      - Remove Packages: ubuntu-server/remove-packages.md
   - Resources: resources.md
 
 theme:
