@@ -1,6 +1,4 @@
-# HTTPS
-
-## Setting Up Cloudflare and Nginx
+# Setting Up Cloudflare and Nginx
 
 To host a website using Cloudflare and Nginx on Ubuntu 22.04, refer to this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-22-04).
 

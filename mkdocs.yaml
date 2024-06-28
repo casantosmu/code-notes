@@ -8,7 +8,7 @@ nav:
   - Home: index.md
   - Ubuntu Server:
       - Setting Up: ubuntu-server/setting-up.md
-      - HTTPS: ubuntu-server/https.md
+      - Cloudflare and Nginx: ubuntu-server/cloudflare-nginx.md
       - Remove Packages: ubuntu-server/remove-packages.md
   - Resources: resources.md
 
