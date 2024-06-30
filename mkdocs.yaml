@@ -6,6 +6,8 @@ repo_url: https://github.com/casantosmu/code-notes
 
 nav:
   - Home: index.md
+  - SQL:
+      - Standard Data Types: sql/standard-data-types.md
   - Ubuntu Server:
       - Setting Up: ubuntu-server/setting-up.md
       - Cloudflare and Nginx: ubuntu-server/cloudflare-nginx.md
