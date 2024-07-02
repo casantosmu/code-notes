@@ -1,6 +1,6 @@
 # Code Notes
 
-Welcome to **Code Notes**, a personal collection of programming insights and practical tips.
+Welcome to **Code Notes**, a personal collection of insights and practical tips on various programming topics.
 
 👉 **Explore the Docs**: [Code Notes](https://code-notes.casantosmu.com)
 
