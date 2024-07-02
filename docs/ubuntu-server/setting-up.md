@@ -1,4 +1,9 @@
-# Setting Up Ubuntu Server
+---
+title: Setting Up an Ubuntu Server
+description: "Guide to setting up an Ubuntu server: server access, updates, user creation, SSH configuration, firewall setup, disabling root login, and installing Fail2ban."
+---
+
+# Setting Up an Ubuntu Server
 
 ## 1. Accessing the Server
 

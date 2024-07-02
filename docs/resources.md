@@ -1,3 +1,8 @@
+---
+title: Resources for Development and DevOps
+description: "DevOps and development resources: React, Node.js, Go, testing, Docker, SQL, NoSQL, AWS, DevOps, security, NGINX, Git, shell scripting, HTML, CSS."
+---
+
 # Resources
 
 ## React

@@ -1,3 +1,8 @@
+---
+title: Removing Packages on Ubuntu/Debian
+description: Guide to removing DEB and Snap packages on Ubuntu/Debian, including purging packages, cleaning dependencies, and removing residual files.
+---
+
 # Removing Packages on Ubuntu/Debian
 
 ## Removing DEB Packages

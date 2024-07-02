@@ -1,3 +1,8 @@
+---
+title: SQL Standard Data Types
+description: A detailed overview of SQL standard data types, including descriptions and use cases for each type, such as BIGINT, BOOLEAN, CHAR, DATE, and more.
+---
+
 # SQL Standard Data Types
 
 | **Data Type**                               | **Description**                                                                   |
