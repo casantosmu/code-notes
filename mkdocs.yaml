@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - SQL:
       - Standard Data Types: sql/standard-data-types.md
+      - Standard Functions: sql/standard-functions.md
   - PostgreSQL:
       - Setting Up: postgresql/setting-up.md
   - Ubuntu Server:
