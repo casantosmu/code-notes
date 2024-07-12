@@ -5,7 +5,7 @@ description: "Guide to securely setting up PostgreSQL: download, install, config
 
 # Setting Up PostgreSQL
 
-## Installation and Configuration
+## Installation
 
 First [download PostgreSQL](https://www.postgresql.org/download/) on your operating system.
 
