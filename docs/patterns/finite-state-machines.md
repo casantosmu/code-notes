@@ -119,5 +119,5 @@ class StateMachine {
 const menu = new StateMachine();
 menu.transition("SelectPlay"); // Starting the game...
 menu.transition("Pause"); // Pausing the game...
-menu.transition("SelectOptions"); // Event "SelectOptions" is not valid from state "Playing"
+menu.transition("SelectOptions"); // Event "SelectOptions" is not valid from state "Paused"
 ```
