@@ -7,7 +7,8 @@ repo_url: https://github.com/casantosmu/code-notes
 nav:
   - Home: index.md
   - Patterns:
-      - Understanding State Machines: patterns/finite-state-machines.md
+      - "State Machines: Example": patterns/finite-state-machines.md
+      - "The Observer Pattern: Example": patterns/observer-pattern.md
   - SQL:
       - Standard Data Types: sql/standard-data-types.md
       - Standard Functions: sql/standard-functions.md
