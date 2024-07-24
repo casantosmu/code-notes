@@ -85,3 +85,18 @@ document.querySelector("#incrementButton").addEventListener("click", () => {
   counter.increment();
 });
 ```
+
+## Pub/Sub Pattern for Better Decoupling and Performance
+
+In scenarios where less coupling and better performance are desired, the **Pub/Sub (Publish/Subscribe) pattern** can be used. This pattern involves publishers and subscribers connected by channels. Channels are managed outside the code, in infrastructure, libraries, other processes, cloud services, etc., and are potentially asynchronous.
+
+### Key Concepts of Pub/Sub
+
+- **Publisher**: Sends messages to a channel.
+- **Subscriber**: Receives messages from a channel.
+- **Channel**: The medium through which messages are sent and received. It is typically managed externally.
+
+### Benefits
+
+- **Less Coupling**: Publishers and subscribers do not need to know about each other, leading to lower coupling.
+- **Scalability**: Since channels can be managed independently and can be asynchronous, the system can scale more effectively.
