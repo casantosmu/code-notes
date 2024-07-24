@@ -3,5 +3,8 @@
   "MD046": false,
   "MD025": {
     "front_matter_title": ""
+  },
+  "MD024": {
+    "siblings_only": true
   }
 }
