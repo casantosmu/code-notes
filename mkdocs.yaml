@@ -14,6 +14,8 @@ nav:
       - Standard Functions: sql/standard-functions.md
   - PostgreSQL:
       - Setting Up: postgresql/setting-up.md
+  - .NET:
+      - CLI Commands: dotnet/cli-commands.md
   - Ubuntu Server:
       - Setting Up: ubuntu-server/setting-up.md
       - Cloudflare and Nginx: ubuntu-server/cloudflare-nginx.md
