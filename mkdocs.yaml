@@ -6,6 +6,8 @@ repo_url: https://github.com/casantosmu/code-notes
 
 nav:
   - Home: index.md
+  - .NET:
+      - CLI Commands: dotnet/cli-commands.md
   - Patterns:
       - "State Machines: Example": patterns/finite-state-machines.md
       - "The Observer Pattern: Example": patterns/observer-pattern.md
@@ -14,8 +16,6 @@ nav:
       - Standard Functions: sql/standard-functions.md
   - PostgreSQL:
       - Setting Up: postgresql/setting-up.md
-  - .NET:
-      - CLI Commands: dotnet/cli-commands.md
   - Ubuntu Server:
       - Setting Up: ubuntu-server/setting-up.md
       - Cloudflare and Nginx: ubuntu-server/cloudflare-nginx.md
