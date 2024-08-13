@@ -1,6 +1,6 @@
 ---
 title: .NET CLI (dotnet) Commands
-description: A guide to useful .NET CLI (dotnet) commands, including where to run them and their purposes
+description: A guide to useful .NET CLI (dotnet) commands, including where to run them and their purposes.
 ---
 
 # .NET CLI (dotnet) Commands
@@ -12,8 +12,10 @@ description: A guide to useful .NET CLI (dotnet) commands, including where to ru
 | `dotnet restore`                                 | Solution folder                         | Restores the NuGet packages for all the projects in the solution.                                                                                            |
 | `dotnet build`                                   | Solution folder                         | Builds all the projects in the solution. Implicitly calls `dotnet restore` before building. To build in `Release` mode, use the `-c` switch.                 |
 | `dotnet run`                                     | Project folder                          | Runs the project in the current folder. Implicitly calls `dotnet restore` and `dotnet build` before running the app. Use during development to run your app. |
+| `dotnet watch run`                               | Project folder                          | Runs the project and watches for file changes. Automatically rebuilds and reruns the project when source files change. Ideal for rapid development.          |
 | `dotnet publish -c Release -o <Folder>`          | Project folder                          | Publishes the project to the provided folder. Copies all the required files to the provided output folder so it can be deployed.                             |
 | `dotnet test`                                    | Solution folder                         | Restores packages, builds, and executes any unit tests found in the solution. Requires the .NET Test SDK and a testing framework adapter.                    |
+| `dotnet format`                                  | Solution or project folder              | Formats code to follow the .NET coding style conventions. Supports C#, VB, and F# codebases.                                                                 |
 | `dotnet add package <Name>`                      | Project folder                          | Install the NuGet package with the provided name in the current project. Optionally specify a package version—e.g., `-v 2.1.0`.                              |
 | `dotnet new --list`                              | Anywhere                                | View all the installed templates for creating ASP.NET Core apps, libraries, test projects, solution files, and many more.                                    |
 | `dotnet new <Template> -o <Folder> -n <NewName>` | Anywhere; empty folder for new projects | Create a new item from the provided template, specifying the folder in which to place the item and the name for the item.                                    |
