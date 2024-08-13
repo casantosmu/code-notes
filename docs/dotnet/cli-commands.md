@@ -30,33 +30,29 @@ Based on [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/a
 
 **Step-by-Step Guide:**
 
-1.  **Create a new solution:**
+Create a new solution:
 
-        dotnet new sln -o MySolution -n MySolution
+```bash
+dotnet new sln -o MySolution -n MySolution
+```
 
-2.  **Create a new console project:**
+Create a new console project:
 
-        dotnet new console -o MySolution/MyProject -n MyProject
+```bash
+dotnet new console -o MySolution/MyProject -n MyProject
+```
 
-3.  **Add the project to the solution:**
+Add the project to the solution:
 
-        cd MySolution
-        dotnet sln MySolution.sln add MyProject/MyProject.csproj
+```bash
+cd MySolution
+dotnet sln MySolution.sln add MyProject/MyProject.csproj
+```
 
-4.  **List projects in the solution:**
+List projects in the solution:
 
-        dotnet sln MySolution.sln list
-
-**Structure:**
-
-```plaintext
-MySolution/
-│
-├── MySolution.sln
-├── Project1/
-│   └── Project1.csproj
-└── Project2/
-    └── Project2.csproj
+```bash
+dotnet sln MySolution.sln list
 ```
 
 ## Enabling Command Autocomplete
