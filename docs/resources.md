@@ -59,6 +59,7 @@ description: "DevOps and development resources: React, Node.js, Go, testing, Doc
 ## DevOps
 
 - **[The Twelve Factors](https://12factor.net)**
+- **[Cloud-Native Schema Migrations](https://cloud-native-schema-migrations.github.io)**
 
 ## Security
 
